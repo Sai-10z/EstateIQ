@@ -126,7 +126,6 @@ Ridge Regression was selected because it reduces overfitting through L2 regulari
 # 📈 Model Evaluation Metric
 
 Model performance was evaluated using the **R² (Coefficient of Determination)** metric.
-
 An R² score closer to **1.0** indicates that the model explains a larger proportion of the variance in house prices, resulting in better predictive performance.
 
 ---
@@ -178,7 +177,8 @@ House_Price_Predictor/
 │   └── util.py
 │
 ├── Snapshots/
-│   └── Application screenshots
+│   ├── Snap-11.png
+│   ├── Snap-22.png
 │
 ├── README.md
 └── requirements.txt
