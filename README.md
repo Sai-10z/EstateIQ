@@ -286,7 +286,7 @@ This project was developed collaboratively by:
 
 | Contributor | Contributions |
 |-------------|---------------|
-| **Sai R** | Developed the frontend and Flask backend, integrated the trained machine learning model, implemented the application logic, and contributed to end-to-end web application development. |
+| **Sai Chandran R** | Developed the frontend and Flask backend, integrated the trained machine learning model, implemented the application logic, and contributed to end-to-end web application development. |
 | **Sirisha V Ramana** | Performed data preprocessing, exploratory data analysis (EDA), feature engineering, trained and evaluated machine learning models, and contributed to model selection and optimization. |
 | **Sneha Saphala R** | Contributed to data preparation, model testing and validation, prepared project reports and documentation, and supported the overall implementation and evaluation of the project. |
 
