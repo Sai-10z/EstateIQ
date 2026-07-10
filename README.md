@@ -294,9 +294,7 @@ This project was developed collaboratively by:
 
 # 📝 Project Note
 
-> **EstateIQ** demonstrates how a machine learning model can be transformed into a production-style web application by combining data preprocessing, feature engineering, regression modeling, and Flask-based deployment.
-
-The project highlights the complete workflow from preparing housing data and training predictive models to delivering real-time house price predictions through an interactive web interface.
+> **EstateIQ** showcases the complete machine learning workflow, from data preprocessing and feature engineering to regression modeling and real-time house price prediction through a Flask-based web application.
 
 ---
 
